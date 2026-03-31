@@ -1,0 +1,6 @@
+
+Code Region: addresses 0 to 7
+Address   || 
+00000000  ||  00000000  ||  FFFFFB00  ||  00000500  ||  FFFFFF11
+00000004  ||  00000011  ||  00000300  ||  00000700  ||  00000000
+No data written beyond code

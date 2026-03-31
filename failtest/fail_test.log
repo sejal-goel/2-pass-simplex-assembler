@@ -1,0 +1,17 @@
+Assembler Log : C:\Users\Sejal\OneDrive\Desktop\2401CS17\failtest\fail_test 
+
+ERRORS (11):
+  Line 6: Duplicate label 'start'
+  Line 9: 'stl' requires an operand 
+  Line10: 'add' takes no operand
+  Line 11: Extra text at the end of the line
+  Line 12: Invalid label name '3bad'
+  Line13: UNknown mnemonic 'fib'
+  Line 14: Extra text at the end of the line
+  Line 7: Undefined label 'nowhere'
+  Line 8: Invalid operand ' 09xyz'
+  Line 11: Invalid operand ' 10,'
+  Line 14: Undefined label 'next'
+
+WARNINGS (1):
+  Line5: Warning: Label 'start' declared but never used

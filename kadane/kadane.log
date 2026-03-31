@@ -1,0 +1,10 @@
+Assembler Log : C:\Users\Sejal\OneDrive\Desktop\2401CS17\kadane\kadane 
+
+No errors.
+
+WARNINGS (5):
+  Line11: Warning: Label 'arr_1' declared but never used
+  Line12: Warning: Label 'arr_2' declared but never used
+  Line13: Warning: Label 'arr_3' declared but never used
+  Line14: Warning: Label 'arr_4' declared but never used
+  Line15: Warning: Label 'arr_5' declared but never used

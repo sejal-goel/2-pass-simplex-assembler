@@ -1,0 +1,16 @@
+Assembler Log : C:\Users\Sejal\OneDrive\Desktop\2401CS17\test2\test2 
+
+ERRORS (10):
+  Line 4: Duplicate label 'label'
+  Line 7: 'ldc' requires an operand 
+  Line8: 'add' takes no operand
+  Line 9: Extra text at the end of the line
+  Line 10: Invalid label name '0def'
+  Line11: UNknown mnemonic 'fibble'
+  Line12: UNknown mnemonic '0def'
+  Line 5: Undefined label 'nonesuch'
+  Line 6: Invalid operand ' 08ge'
+  Line 9: Invalid operand ' 5,'
+
+WARNINGS (1):
+  Line3: Warning: Label 'label' declared but never used
